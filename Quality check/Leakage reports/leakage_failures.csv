@@ -1,0 +1,11 @@
+eval_file,eval_split,CLC_codes,n_candidates,reason
+S2B_MSIL2A_20180920T085619_N0500_R007_T35TPK_4388_3613,test,"321, 211, 311",1,no safe same-CLC replacement in train
+S2B_MSIL2A_20181009T093029_N0500_R136_T34TFT_6903_6140,val,"311, 211, 112",1,no safe same-CLC replacement in train
+S2B_MSIL2A_20181006T092029_N0500_R093_T35TLN_7339_1057,val,"312, 231",1,no safe same-CLC replacement in train
+S2B_MSIL2A_20181006T092029_N0500_R093_T35TLN_7885_3038,test,"231, 312, 324",1,no safe same-CLC replacement in train
+S2B_MSIL2A_20180920T085619_N0500_R007_T35TPK_5624_2818,test,521,15,no safe same-CLC replacement in train
+S2B_MSIL2A_20180920T085619_N0500_R007_T35TPK_5783_3583,test,521,15,no safe same-CLC replacement in train
+S2B_MSIL2A_20180920T085619_N0500_R007_T35TPK_6167_3578,val,521,15,no safe same-CLC replacement in train
+S2B_MSIL2A_20180920T085619_N0500_R007_T35TPK_6771_2420,val,"411, 512",23,no safe same-CLC replacement in train
+S2B_MSIL2A_20180920T085619_N0500_R007_T35TPK_7348_3213,val,"411, 512",23,no safe same-CLC replacement in train
+S2B_MSIL2A_20180920T085619_N0500_R007_T35TPK_8899_1323,test,"411, 512",23,no safe same-CLC replacement in train
